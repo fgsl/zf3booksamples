@@ -1,1 +1,1 @@
-# Exemplos de projetos em Zend Framework 3
+# Exemplos de projetos em Laminas (o substituto do Zend Framework)
